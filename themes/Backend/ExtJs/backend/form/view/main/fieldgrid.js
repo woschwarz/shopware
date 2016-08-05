@@ -262,6 +262,7 @@ Ext.define('Shopware.apps.Form.view.main.Fieldgrid', {
                 ['text', 'Text'],
                 ['text2', 'Text2'],
                 ['checkbox', 'Checkbox'],
+                ['radio', 'Radio'],
                 ['email', 'Email'],
                 ['select', 'select'],
                 ['textarea', 'textarea']
